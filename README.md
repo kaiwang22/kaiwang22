@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-# My name is Kai Wang, and I'm a systems engineering major at Penn!
+
+ My name is Kai Wang, and I'm a systems engineering major at Penn!
 
 - Some interests of mine: 
     - Eating 
